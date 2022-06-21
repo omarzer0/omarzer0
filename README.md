@@ -4,7 +4,13 @@
 <img src="https://github-readme-stats.vercel.app/api?username=omarzer0&count_private=true&theme=vision-friendly-dark&include_all_commits=true"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarzer0&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
- 
+
+
+
+![Omar's github streak](https://github-readme-streak-stats.herokuapp.com/?user=omarzer0&theme=vision-friendly-dark&include_all_commits=true&count_private=true)
+
+<!-- ![Omar's github streak](https://github-readme-streak-stats.herokuapp.com/?user=omarzer0&theme=tokyonight&include_all_commits=true&count_private=true)
+  -->
 <!--
 
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omarzer0&count_private=true&theme=vision-friendly-dark&include_all_commits=true"/>
